@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author nanoic 2023
+ * @author Andrew Richardson 2023
  */
 public class RecordSorter {
 
